@@ -1,0 +1,24 @@
+*{
+	margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    font-family: sans-serif;
+}
+
+
+
+.currentgold{
+	margin-right: 600px;
+}
+
+.box{
+	display: inline-block;
+	height: 180px;
+	width: 180px;
+	outline: solid 4px pink;
+	margin: 20px;
+}
+
+.button{
+	margin-left:50px;
+}
